@@ -12,4 +12,9 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 ![image](https://user-images.githubusercontent.com/125492978/234635322-7da8ef34-a556-4874-b20e-533f105d9220.png)
 
+## 🏥 Parte 2 - Os Segredos do Hospital.
+
+Após a primeira versão do projeto de banco de dados para o sistema hospitalar, notou-se a necessidade de expansão das funcionalidades, incluindo alguns requisitos essenciais a essa versão do software. As funcionalidades em questão são para o controle na internação de pacientes. Será necessário expandir o Modelo ER desenvolvido e montar o banco de dados, criando as tabelas para o início dos testes. As atualizações foram na criação das entidades de quartos, internação e enfermeiro.
+
+![image](https://github.com/gussenise/Banco-de-Dados-Hospital/assets/125492978/f964fc35-fbad-4d1d-8ad1-4dcb2f211da8)
 
